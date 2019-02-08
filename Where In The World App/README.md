@@ -18,10 +18,10 @@ HCID Educational geography Android app created with App Inventor 2
 
 ## Screenshots
 
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw1-blocks.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw2-menu_20170328-213135.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw3-game1_20170328-213142.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw4-game1_20170328-213147.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw5-game1_20170328-213151.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw6-game2_20170328-213201.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/witw7-game2_20170328-213206.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw1-blocks.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw2-menu_20170328-213135.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw3-game1_20170328-213142.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw4-game1_20170328-213147.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw5-game1_20170328-213151.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw6-game2_20170328-213201.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/witw7-game2_20170328-213206.png "HCID App")

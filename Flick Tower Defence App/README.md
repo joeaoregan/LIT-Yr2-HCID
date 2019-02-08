@@ -22,8 +22,8 @@ Yr2 HCID Android App Flick Tower Defence
 
 ## Screenshots
 
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/ftd1-blocks.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/ftd2_20170328-215013.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/ftd3_20170328-215246.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/ftd4_20170328-215249.png "HCID App")
-![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr3-S4-HCID/master/Screenshots/ftd5_20170328-215255.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd1-blocks.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd2_20170328-215013.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd3_20170328-215246.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd4_20170328-215249.png "HCID App")
+![HCID App](https://raw.githubusercontent.com/joeaoregan/LIT-Yr2-S4-HCID/master/Screenshots/ftd5_20170328-215255.png "HCID App")
