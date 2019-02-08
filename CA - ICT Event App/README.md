@@ -1,4 +1,11 @@
-# Yr2 HCID CA
+# HCID
+## Joe O'Regan (K00203642)
+### Year 2, Semester 4
+##### BSc Computing (Games Design and Development)
+##### Limerick Institute of Technology
+
+---
+
 # ICT Event App
 
 Created using App Inventor
