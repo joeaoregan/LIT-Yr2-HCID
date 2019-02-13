@@ -10,9 +10,9 @@
 
 Android App created in App Inventor 2
 
-* **CA - ICT Event App** App prototype to tie in with EAD CA
-* **Flick Tower Defence** Tower defence app
-* **Where In The World** Geography game (English / Irish)
+* **[CA - ICT Event App](https://github.com/joeaoregan/LIT-Yr2-HCID/tree/master/CA%20-%20ICT%20Event%20App)** App prototype to tie in with [EAD CA](https://github.com/joeaoregan/LIT-Yr2-EnterpriseApplicationDevelopment)
+* **[Flick Tower Defence](https://github.com/joeaoregan/LIT-Yr2-HCID/tree/master/Flick%20Tower%20Defence%20App)** Tower defence app
+* **[Where In The World](https://github.com/joeaoregan/LIT-Yr2-HCID/tree/master/Where%20In%20The%20World%20App)** Geography game (English / Irish)
 
 ---
 
